@@ -115,7 +115,7 @@ python consumer.py
 ## 📊 Dashboard Preview
 
 ```
-(dashboards/Dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/prateek02221/stock-risk-analytics/main/dashboards/Dashboard.png)
 ```
 
 ---
